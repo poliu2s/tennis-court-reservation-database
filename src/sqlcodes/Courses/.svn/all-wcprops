@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/185/trunk/src/sqlcodes/Courses
+END
+GetAllCoursesInTimePeriod.sql
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/18/trunk/src/sqlcodes/Courses/GetAllCoursesInTimePeriod.sql
+END
+GetCoachWithSmallestCourse.sql
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/185/trunk/src/sqlcodes/Courses/GetCoachWithSmallestCourse.sql
+END
+ReserveCourse.sql
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/185/trunk/src/sqlcodes/Courses/ReserveCourse.sql
+END
+GetAllTimePeriodsForCourse.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/93/trunk/src/sqlcodes/Courses/GetAllTimePeriodsForCourse.sql
+END
+FindMaxIds.sql
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/148/trunk/src/sqlcodes/Courses/FindMaxIds.sql
+END

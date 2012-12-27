@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/190/trunk/src/sqlcodes/Court
+END
+RentCourt.sql
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/156/trunk/src/sqlcodes/Court/RentCourt.sql
+END
+GetAllCourts.sql
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/83/trunk/src/sqlcodes/Court/GetAllCourts.sql
+END
+GetMinimumCourt.sql
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/190/trunk/src/sqlcodes/Court/GetMinimumCourt.sql
+END
+GetMaximimCourt.sql
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/190/trunk/src/sqlcodes/Court/GetMaximimCourt.sql
+END
+GetAllCourtsInTimePeriod.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/85/trunk/src/sqlcodes/Court/GetAllCourtsInTimePeriod.sql
+END
+GetAllTimePeriodsForCourt.sql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/83/trunk/src/sqlcodes/Court/GetAllTimePeriodsForCourt.sql
+END
+VerifyTimes.sql
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/93/trunk/src/sqlcodes/Court/VerifyTimes.sql
+END

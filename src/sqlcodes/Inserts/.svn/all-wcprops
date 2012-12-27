@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/36/trunk/src/sqlcodes/Inserts
+END
+InsertReserves.sql
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/36/trunk/src/sqlcodes/Inserts/InsertReserves.sql
+END
+InsertCoach.sql
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/36/trunk/src/sqlcodes/Inserts/InsertCoach.sql
+END
+InsertCourt_Rental.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/36/trunk/src/sqlcodes/Inserts/InsertCourt_Rental.sql
+END
+InsertCourse_Reserve.sql
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/36/trunk/src/sqlcodes/Inserts/InsertCourse_Reserve.sql
+END
+InsertCourt.sql
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/36/trunk/src/sqlcodes/Inserts/InsertCourt.sql
+END
+InsertAccount_Refund.sql
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/36/trunk/src/sqlcodes/Inserts/InsertAccount_Refund.sql
+END
+InsertReservation.sql
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/36/trunk/src/sqlcodes/Inserts/InsertReservation.sql
+END
+InsertCancel.sql
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/36/trunk/src/sqlcodes/Inserts/InsertCancel.sql
+END
+InsertCourse.sql
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/36/trunk/src/sqlcodes/Inserts/InsertCourse.sql
+END
+InsertBased_On.sql
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/36/trunk/src/sqlcodes/Inserts/InsertBased_On.sql
+END
+InsertTransaction.sql
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/36/trunk/src/sqlcodes/Inserts/InsertTransaction.sql
+END
+InsertAccount_Holder.sql
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/36/trunk/src/sqlcodes/Inserts/InsertAccount_Holder.sql
+END
+InsertAccount_Payment.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/36/trunk/src/sqlcodes/Inserts/InsertAccount_Payment.sql
+END

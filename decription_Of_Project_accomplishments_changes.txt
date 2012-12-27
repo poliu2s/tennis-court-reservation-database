@@ -1,0 +1,28 @@
+What we accomplished:
+
+
+the project that we created is the badminton court rental system
+this system will allow users who are using the court to book a time for court at certain time, able to 
+apply for the course that runs by court staff, and able to cancel book time, and courses. staffs(coaches) will have their own access to book a time for a court
+and teach student in courses provided. each coaches and students(users) will have their own skill level, and coaches and students are matched according to those 
+skill level. system allows users to pay, and access to their transaction, and their transaction for their refunds for canceling for their book time.
+system manages all courts, transaction, and all courses.
+
+
+Different from formal specification
+
+Also, due to difficulties with getting our database to work, we had to remove the functionality for waitlisting. 
+We also removed the manager functionality, as we felt this did not fit the rest of the application we had (manager should have different app)
+
+
+Differences in final schema:
+
+1. Web Viewer entity is removed
+2. Views relationship removed
+3. User_TransactionList entity added
+4. some transaction_id attribute removed from entity that contains it and replaced with transactionList_id
+5. Based_On relationship removed
+6. foreign key added for transactionList entity
+7. Account holder has been modified to appUser
+
+Reasons for change in schema: to resolve the problem related to foreign keys + and having too many arrows led to complex diagram, therefore needed to simplify schema

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/181/trunk/src/sqlcodes/user
+END
+GetUsersWithAllCourts.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/181/trunk/src/sqlcodes/user/GetUsersWithAllCourts.sql
+END
+GetAllReservationsUnderUser.sql
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/83/trunk/src/sqlcodes/user/GetAllReservationsUnderUser.sql
+END
+GetListOfUserIDs.sql
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/108/trunk/src/sqlcodes/user/GetListOfUserIDs.sql
+END
+CancelCourtRental.sql
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/156/trunk/src/sqlcodes/user/CancelCourtRental.sql
+END
+CancelCourseReservation.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/156/trunk/src/sqlcodes/user/CancelCourseReservation.sql
+END
+RetrievePassword.sql
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/109/trunk/src/sqlcodes/user/RetrievePassword.sql
+END
+GetListOfTransactionIDsForCourt.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/93/trunk/src/sqlcodes/user/GetListOfTransactionIDsForCourt.sql
+END
+GetInfoForCancelCourse.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/92/trunk/src/sqlcodes/user/GetInfoForCancelCourse.sql
+END
+GetInfoForCancelCourt.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/91/trunk/src/sqlcodes/user/GetInfoForCancelCourt.sql
+END
+UpdateAddressOfUser.sql
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/83/trunk/src/sqlcodes/user/UpdateAddressOfUser.sql
+END
+CreateNewUser.sql
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/83/trunk/src/sqlcodes/user/CreateNewUser.sql
+END
+GetListOfTransactionIDsForCourse.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/93/trunk/src/sqlcodes/user/GetListOfTransactionIDsForCourse.sql
+END

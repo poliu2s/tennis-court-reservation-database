@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/190/trunk/src/sqlcodes
+END
+EnableConstraints.sql
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/57/trunk/src/sqlcodes/EnableConstraints.sql
+END
+insertScript.sql
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/188/trunk/src/sqlcodes/insertScript.sql
+END
+tenis.sql
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/49/trunk/src/sqlcodes/tenis.sql
+END
+DropAllTables.sql
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/122/trunk/src/sqlcodes/DropAllTables.sql
+END
+DisableConstraints.sql
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/57/trunk/src/sqlcodes/DisableConstraints.sql
+END

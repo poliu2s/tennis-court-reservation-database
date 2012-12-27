@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/136/trunk/src/sqlcodes/Centres
+END
+GetAllCentresAndCourts.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/58/trunk/src/sqlcodes/Centres/GetAllCentresAndCourts.sql
+END
+GetAllCourtNumbersForLocation.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/136/trunk/src/sqlcodes/Centres/GetAllCourtNumbersForLocation.sql
+END
+GetAllCourtLocations.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/136/trunk/src/sqlcodes/Centres/GetAllCourtLocations.sql
+END
