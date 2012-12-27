@@ -1,0 +1,31 @@
+Po Liu 每 13623079
+Group: Appa
+
+CPSC 304 每 Individual Report: Po Liu (13623079)
+
+Assessment of group＊s final achievement
+* I feel that we did not fall short of any of the expectations as detailed on the website.
+* Since our initial expectations were to create a full-fledged product, we fell short of that prediction but were able to create a program that sufficiently met the requirements.
+* We worked together well and fell into the pace of each other＊s abilities
+* Areas that could have been improved in foresight into how long we would spend on the project and meeting earlier deadlines.
+* Group roles were very clearly defined and they were malleable enough to allow flexibility.
+
+Individual Assessment
+* In terms of coding, I was responsible for the graphical user interface which I implemented in Java Swing (as a deployable applet online). I created the primary interface and then connect my code with the underlying functions that related to the SQL
+* For myself, I learned a lot about communication in a group and meeting deadlines together. I learned how to collaborate with others with the same and higher abilities in programming. I hope that my group appreciated my contribution and I believe that I was able to meet my responsibilities adequately and in some points exceeded it.
+* For the applet to be completely deployable, we could have added greater interactivity and functionality in terms of queries and user interfaces. Because of our limitations in time and familiarity with SQL, I believe we were able to accomplish a lot and I hope that my teammates would share that belief as well.
+* 
+
+Assessment of Individual
+* Peter Moon		5 每 Did most of the create tables and insert script; Played a major supporting role for everyone＊s coding
+* Akash Peri		5 每 Wrote up the all SQL statements and trouble-shooted downstream during debugging
+* Andrew Yoon		5 每 Used the SQL queries to create Java methods in DBHandler for the GUI
+* Po Liu			5 每 Created the GUI and connected it with Andrew＊s DBHandler＊s class
+
+Assessment of Project
+* I spent approximately 50 hours on the project alone, including some of the breaks and collaborative meeting time that we had
+* I liked the idea of working with others on a challenging project and being able to communicate with them about my challenges and helping them out as well
+* I learned best when working with others on the same problem and showing them my code
+* I would allow for greater TA support and demonstration at the beginning of the term on how to setup SQL so that we could start playing around with the code earlier (maybe some class exercises?)
+
+
